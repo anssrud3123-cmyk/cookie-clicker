@@ -1,2 +1,0 @@
-# cookie-clicker
-ddd
